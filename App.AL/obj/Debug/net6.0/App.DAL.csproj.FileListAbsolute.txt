@@ -1,0 +1,14 @@
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\bin\Debug\net6.0\App.DAL.deps.json
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\bin\Debug\net6.0\App.DAL.runtimeconfig.json
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\bin\Debug\net6.0\App.DAL.dll
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\bin\Debug\net6.0\App.DAL.pdb
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\App.DAL.csproj.AssemblyReference.cache
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\App.DAL.AssemblyInfoInputs.cache
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\App.DAL.AssemblyInfo.cs
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\App.DAL.csproj.CoreCompileInputs.cache
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\App.DAL.dll
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\refint\App.DAL.dll
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\App.DAL.pdb
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\App.DAL.genruntimeconfig.cache
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.AL\obj\Debug\net6.0\ref\App.DAL.dll

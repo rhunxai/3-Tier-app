@@ -1,0 +1,15 @@
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\bin\Debug\net6.0\App.BLL.deps.json
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\bin\Debug\net6.0\App.BLL.dll
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\bin\Debug\net6.0\App.BLL.pdb
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\bin\Debug\net6.0\App.DAL.dll
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\bin\Debug\net6.0\App.DAL.pdb
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\App.BLL.csproj.AssemblyReference.cache
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\App.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\App.BLL.AssemblyInfoInputs.cache
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\App.BLL.AssemblyInfo.cs
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\App.BLL.csproj.CoreCompileInputs.cache
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\App.BLL.csproj.CopyComplete
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\App.BLL.dll
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\refint\App.BLL.dll
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\App.BLL.pdb
+D:\dotnetcore6\3tierArchitecture\3tierArchitecture\App.BAL\obj\Debug\net6.0\ref\App.BLL.dll
